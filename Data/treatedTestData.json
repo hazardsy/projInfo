@@ -1,0 +1,2802 @@
+{
+  "1": {
+    "features": {
+      "cmcs": {
+        "mean": 1.4,
+        "sd": 1.474
+      },
+      "cardColors": {
+        "U": 0.683,
+        "R": 0.0,
+        "W": 0.433,
+        "G": 0.0,
+        "B": 0.0,
+        "None": 0.133
+      },
+      "cardTypes": {
+        "Instant": 0.2,
+        "Sorcery": 0.117,
+        "Planeswalker": 0.067,
+        "Creature": 0.05,
+        "Artifact": 0.0,
+        "Enchantment": 0.15,
+        "Land": 0.417,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.25
+    },
+    "archetype": "Control"
+  },
+  "2": {
+    "features": {
+      "cmcs": {
+        "mean": 1.117,
+        "sd": 1.292
+      },
+      "cardColors": {
+        "U": 0.0,
+        "R": 0.117,
+        "W": 0.017,
+        "G": 0.217,
+        "B": 0.483,
+        "None": 0.267
+      },
+      "cardTypes": {
+        "Instant": 0.15,
+        "Sorcery": 0.233,
+        "Planeswalker": 0.017,
+        "Creature": 0.233,
+        "Artifact": 0.067,
+        "Enchantment": 0.0,
+        "Land": 0.3,
+        "Tribal": 0.033
+      },
+      "multicolored": 0.1
+    },
+    "archetype": "Midrange"
+  },
+  "3": {
+    "features": {
+      "cmcs": {
+        "mean": 1.583,
+        "sd": 2.002
+      },
+      "cardColors": {
+        "U": 0.0,
+        "R": 0.583,
+        "W": 0.083,
+        "G": 0.0,
+        "B": 0.5,
+        "None": 0.133
+      },
+      "cardTypes": {
+        "Instant": 0.2,
+        "Sorcery": 0.317,
+        "Planeswalker": 0.0,
+        "Creature": 0.133,
+        "Artifact": 0.0,
+        "Enchantment": 0.017,
+        "Land": 0.333,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.3
+    },
+    "archetype": "Midrange"
+  },
+  "4": {
+    "features": {
+      "cmcs": {
+        "mean": 0.883,
+        "sd": 0.968
+      },
+      "cardColors": {
+        "U": 0.0,
+        "R": 0.083,
+        "W": 0.0,
+        "G": 0.0,
+        "B": 0.133,
+        "None": 0.783
+      },
+      "cardTypes": {
+        "Instant": 0.067,
+        "Sorcery": 0.0,
+        "Planeswalker": 0.0,
+        "Creature": 0.417,
+        "Artifact": 0.7,
+        "Enchantment": 0.0,
+        "Land": 0.3,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.0
+    },
+    "archetype": "Aggro"
+  },
+  "5": {
+    "features": {
+      "cmcs": {
+        "mean": 1.017,
+        "sd": 1.19
+      },
+      "cardColors": {
+        "U": 0.083,
+        "R": 0.05,
+        "W": 0.0,
+        "G": 0.0,
+        "B": 0.133,
+        "None": 0.733
+      },
+      "cardTypes": {
+        "Instant": 0.05,
+        "Sorcery": 0.033,
+        "Planeswalker": 0.0,
+        "Creature": 0.433,
+        "Artifact": 0.7,
+        "Enchantment": 0.0,
+        "Land": 0.283,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.0
+    },
+    "archetype": "Aggro"
+  },
+  "6": {
+    "features": {
+      "cmcs": {
+        "mean": 1.733,
+        "sd": 2.235
+      },
+      "cardColors": {
+        "U": 0.0,
+        "R": 0.0,
+        "W": 0.0,
+        "G": 0.0,
+        "B": 0.033,
+        "None": 0.967
+      },
+      "cardTypes": {
+        "Instant": 0.067,
+        "Sorcery": 0.033,
+        "Planeswalker": 0.0,
+        "Creature": 0.333,
+        "Artifact": 0.233,
+        "Enchantment": 0.0,
+        "Land": 0.4,
+        "Tribal": 0.033
+      },
+      "multicolored": 0.0
+    },
+    "archetype": "Midrange"
+  },
+  "7": {
+    "features": {
+      "cmcs": {
+        "mean": 0.867,
+        "sd": 1.024
+      },
+      "cardColors": {
+        "U": 0.217,
+        "R": 0.017,
+        "W": 0.0,
+        "G": 0.133,
+        "B": 0.2,
+        "None": 0.567
+      },
+      "cardTypes": {
+        "Instant": 0.083,
+        "Sorcery": 0.183,
+        "Planeswalker": 0.0,
+        "Creature": 0.0,
+        "Artifact": 0.433,
+        "Enchantment": 0.0,
+        "Land": 0.3,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.133
+    },
+    "archetype": "Control"
+  },
+  "8": {
+    "features": {
+      "cmcs": {
+        "mean": 1.283,
+        "sd": 1.112
+      },
+      "cardColors": {
+        "U": 0.133,
+        "R": 0.4,
+        "W": 0.0,
+        "G": 0.133,
+        "B": 0.383,
+        "None": 0.15
+      },
+      "cardTypes": {
+        "Instant": 0.033,
+        "Sorcery": 0.233,
+        "Planeswalker": 0.0,
+        "Creature": 0.4,
+        "Artifact": 0.0,
+        "Enchantment": 0.0,
+        "Land": 0.333,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.2
+    },
+    "archetype": "Aggro"
+  },
+  "9": {
+    "features": {
+      "cmcs": {
+        "mean": 1.483,
+        "sd": 1.245
+      },
+      "cardColors": {
+        "U": 0.583,
+        "R": 0.467,
+        "W": 0.0,
+        "G": 0.083,
+        "B": 0.0,
+        "None": 0.1
+      },
+      "cardTypes": {
+        "Instant": 0.4,
+        "Sorcery": 0.2,
+        "Planeswalker": 0.0,
+        "Creature": 0.1,
+        "Artifact": 0.0,
+        "Enchantment": 0.0,
+        "Land": 0.3,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.233
+    },
+    "archetype": "Combo"
+  },
+  "10": {
+    "features": {
+      "cmcs": {
+        "mean": 1.117,
+        "sd": 1.305
+      },
+      "cardColors": {
+        "U": 0.583,
+        "R": 0.25,
+        "W": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "None": 0.283
+      },
+      "cardTypes": {
+        "Instant": 0.217,
+        "Sorcery": 0.067,
+        "Planeswalker": 0.0,
+        "Creature": 0.133,
+        "Artifact": 0.133,
+        "Enchantment": 0.083,
+        "Land": 0.367,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.117
+    },
+    "archetype": "Control"
+  },
+  "11": {
+    "features": {
+      "cmcs": {
+        "mean": 1.933,
+        "sd": 2.22
+      },
+      "cardColors": {
+        "U": 0.783,
+        "R": 0.0,
+        "W": 0.0,
+        "G": 0.0,
+        "B": 0.2,
+        "None": 0.067
+      },
+      "cardTypes": {
+        "Instant": 0.133,
+        "Sorcery": 0.2,
+        "Planeswalker": 0.0,
+        "Creature": 0.233,
+        "Artifact": 0.033,
+        "Enchantment": 0.1,
+        "Land": 0.333,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.05
+    },
+    "archetype": "Combo"
+  },
+  "12": {
+    "features": {
+      "cmcs": {
+        "mean": 1.217,
+        "sd": 1.266
+      },
+      "cardColors": {
+        "U": 0.633,
+        "R": 0.217,
+        "W": 0.367,
+        "G": 0.0,
+        "B": 0.0,
+        "None": 0.133
+      },
+      "cardTypes": {
+        "Instant": 0.317,
+        "Sorcery": 0.067,
+        "Planeswalker": 0.0,
+        "Creature": 0.217,
+        "Artifact": 0.0,
+        "Enchantment": 0.0,
+        "Land": 0.4,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.35
+    },
+    "archetype": "Control"
+  },
+  "13": {
+    "features": {
+      "cmcs": {
+        "mean": 1.483,
+        "sd": 1.607
+      },
+      "cardColors": {
+        "U": 0.683,
+        "R": 0.0,
+        "W": 0.45,
+        "G": 0.0,
+        "B": 0.0,
+        "None": 0.133
+      },
+      "cardTypes": {
+        "Instant": 0.2,
+        "Sorcery": 0.133,
+        "Planeswalker": 0.083,
+        "Creature": 0.05,
+        "Artifact": 0.0,
+        "Enchantment": 0.117,
+        "Land": 0.417,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.267
+    },
+    "archetype": "Control"
+  },
+  "14": {
+    "features": {
+      "cmcs": {
+        "mean": 1.533,
+        "sd": 1.848
+      },
+      "cardColors": {
+        "U": 0.35,
+        "R": 0.083,
+        "W": 0.0,
+        "G": 0.033,
+        "B": 0.483,
+        "None": 0.2
+      },
+      "cardTypes": {
+        "Instant": 0.267,
+        "Sorcery": 0.167,
+        "Planeswalker": 0.0,
+        "Creature": 0.267,
+        "Artifact": 0.0,
+        "Enchantment": 0.0,
+        "Land": 0.3,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.117
+    },
+    "archetype": "Midrange"
+  },
+  "15": {
+    "features": {
+      "cmcs": {
+        "mean": 1.967,
+        "sd": 2.595
+      },
+      "cardColors": {
+        "U": 0.0,
+        "R": 0.0,
+        "W": 0.0,
+        "G": 0.0,
+        "B": 0.05,
+        "None": 0.95
+      },
+      "cardTypes": {
+        "Instant": 0.05,
+        "Sorcery": 0.033,
+        "Planeswalker": 0.033,
+        "Creature": 0.333,
+        "Artifact": 0.233,
+        "Enchantment": 0.0,
+        "Land": 0.4,
+        "Tribal": 0.033
+      },
+      "multicolored": 0.0
+    },
+    "archetype": "Midrange"
+  },
+  "16": {
+    "features": {
+      "cmcs": {
+        "mean": 1.817,
+        "sd": 2.37
+      },
+      "cardColors": {
+        "U": 0.0,
+        "R": 0.0,
+        "W": 0.0,
+        "G": 0.0,
+        "B": 0.033,
+        "None": 0.967
+      },
+      "cardTypes": {
+        "Instant": 0.067,
+        "Sorcery": 0.033,
+        "Planeswalker": 0.033,
+        "Creature": 0.317,
+        "Artifact": 0.233,
+        "Enchantment": 0.0,
+        "Land": 0.4,
+        "Tribal": 0.033
+      },
+      "multicolored": 0.0
+    },
+    "archetype": "Midrange"
+  },
+  "17": {
+    "features": {
+      "cmcs": {
+        "mean": 1.6,
+        "sd": 2.162
+      },
+      "cardColors": {
+        "U": 0.45,
+        "R": 0.0,
+        "W": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "None": 0.55
+      },
+      "cardTypes": {
+        "Instant": 0.25,
+        "Sorcery": 0.033,
+        "Planeswalker": 0.033,
+        "Creature": 0.117,
+        "Artifact": 0.283,
+        "Enchantment": 0.0,
+        "Land": 0.4,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.0
+    },
+    "archetype": "Control"
+  },
+  "18": {
+    "features": {
+      "cmcs": {
+        "mean": 1.517,
+        "sd": 1.323
+      },
+      "cardColors": {
+        "U": 0.0,
+        "R": 0.0,
+        "W": 0.1,
+        "G": 0.933,
+        "B": 0.15,
+        "None": 0.05
+      },
+      "cardTypes": {
+        "Instant": 0.117,
+        "Sorcery": 0.017,
+        "Planeswalker": 0.0,
+        "Creature": 0.55,
+        "Artifact": 0.017,
+        "Enchantment": 0.0,
+        "Land": 0.3,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.233
+    },
+    "archetype": "Aggro"
+  },
+  "19": {
+    "features": {
+      "cmcs": {
+        "mean": 1.317,
+        "sd": 1.323
+      },
+      "cardColors": {
+        "U": 0.0,
+        "R": 0.0,
+        "W": 0.417,
+        "G": 0.0,
+        "B": 0.733,
+        "None": 0.117
+      },
+      "cardTypes": {
+        "Instant": 0.067,
+        "Sorcery": 0.317,
+        "Planeswalker": 0.15,
+        "Creature": 0.067,
+        "Artifact": 0.0,
+        "Enchantment": 0.0,
+        "Land": 0.4,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.267
+    },
+    "archetype": "Midrange"
+  },
+  "20": {
+    "features": {
+      "cmcs": {
+        "mean": 1.8,
+        "sd": 2.344
+      },
+      "cardColors": {
+        "U": 0.0,
+        "R": 0.0,
+        "W": 0.0,
+        "G": 0.0,
+        "B": 0.033,
+        "None": 0.967
+      },
+      "cardTypes": {
+        "Instant": 0.033,
+        "Sorcery": 0.033,
+        "Planeswalker": 0.033,
+        "Creature": 0.3,
+        "Artifact": 0.267,
+        "Enchantment": 0.0,
+        "Land": 0.4,
+        "Tribal": 0.033
+      },
+      "multicolored": 0.0
+    },
+    "archetype": "Midrange"
+  },
+  "21": {
+    "features": {
+      "cmcs": {
+        "mean": 1.417,
+        "sd": 1.358
+      },
+      "cardColors": {
+        "U": 0.033,
+        "R": 0.0,
+        "W": 0.333,
+        "G": 0.667,
+        "B": 0.083,
+        "None": 0.167
+      },
+      "cardTypes": {
+        "Instant": 0.133,
+        "Sorcery": 0.0,
+        "Planeswalker": 0.0,
+        "Creature": 0.483,
+        "Artifact": 0.017,
+        "Enchantment": 0.0,
+        "Land": 0.383,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.25
+    },
+    "archetype": "Combo"
+  },
+  "22": {
+    "features": {
+      "cmcs": {
+        "mean": 1.717,
+        "sd": 2.042
+      },
+      "cardColors": {
+        "U": 0.0,
+        "R": 0.433,
+        "W": 0.0,
+        "G": 0.533,
+        "B": 0.0,
+        "None": 0.133
+      },
+      "cardTypes": {
+        "Instant": 0.2,
+        "Sorcery": 0.183,
+        "Planeswalker": 0.0,
+        "Creature": 0.2,
+        "Artifact": 0.0,
+        "Enchantment": 0.0,
+        "Land": 0.417,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.1
+    },
+    "archetype": "Combo"
+  },
+  "23": {
+    "features": {
+      "cmcs": {
+        "mean": 1.567,
+        "sd": 1.986
+      },
+      "cardColors": {
+        "U": 0.0,
+        "R": 0.667,
+        "W": 0.133,
+        "G": 0.0,
+        "B": 0.383,
+        "None": 0.133
+      },
+      "cardTypes": {
+        "Instant": 0.2,
+        "Sorcery": 0.3,
+        "Planeswalker": 0.0,
+        "Creature": 0.167,
+        "Artifact": 0.0,
+        "Enchantment": 0.017,
+        "Land": 0.317,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.317
+    },
+    "archetype": "Midrange"
+  },
+  "24": {
+    "features": {
+      "cmcs": {
+        "mean": 1.067,
+        "sd": 0.929
+      },
+      "cardColors": {
+        "U": 0.0,
+        "R": 0.75,
+        "W": 0.117,
+        "G": 0.2,
+        "B": 0.0,
+        "None": 0.183
+      },
+      "cardTypes": {
+        "Instant": 0.267,
+        "Sorcery": 0.133,
+        "Planeswalker": 0.0,
+        "Creature": 0.267,
+        "Artifact": 0.0,
+        "Enchantment": 0.067,
+        "Land": 0.333,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.25
+    },
+    "archetype": "Aggro"
+  },
+  "25": {
+    "features": {
+      "cmcs": {
+        "mean": 1.433,
+        "sd": 1.736
+      },
+      "cardColors": {
+        "U": 0.0,
+        "R": 0.0,
+        "W": 0.933,
+        "G": 0.0,
+        "B": 0.0,
+        "None": 0.067
+      },
+      "cardTypes": {
+        "Instant": 0.067,
+        "Sorcery": 0.067,
+        "Planeswalker": 0.0,
+        "Creature": 0.45,
+        "Artifact": 0.0,
+        "Enchantment": 0.05,
+        "Land": 0.367,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.0
+    },
+    "archetype": "Aggro"
+  },
+  "26": {
+    "features": {
+      "cmcs": {
+        "mean": 1.883,
+        "sd": 2.504
+      },
+      "cardColors": {
+        "U": 0.0,
+        "R": 0.0,
+        "W": 0.0,
+        "G": 0.0,
+        "B": 0.033,
+        "None": 0.967
+      },
+      "cardTypes": {
+        "Instant": 0.033,
+        "Sorcery": 0.017,
+        "Planeswalker": 0.033,
+        "Creature": 0.333,
+        "Artifact": 0.25,
+        "Enchantment": 0.0,
+        "Land": 0.4,
+        "Tribal": 0.017
+      },
+      "multicolored": 0.0
+    },
+    "archetype": "Midrange"
+  },
+  "27": {
+    "features": {
+      "cmcs": {
+        "mean": 2.0,
+        "sd": 2.229
+      },
+      "cardColors": {
+        "U": 0.8,
+        "R": 0.0,
+        "W": 0.0,
+        "G": 0.0,
+        "B": 0.183,
+        "None": 0.067
+      },
+      "cardTypes": {
+        "Instant": 0.183,
+        "Sorcery": 0.133,
+        "Planeswalker": 0.0,
+        "Creature": 0.267,
+        "Artifact": 0.05,
+        "Enchantment": 0.067,
+        "Land": 0.35,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.05
+    },
+    "archetype": "Combo"
+  },
+  "28": {
+    "features": {
+      "cmcs": {
+        "mean": 1.867,
+        "sd": 1.821
+      },
+      "cardColors": {
+        "U": 0.0,
+        "R": 0.317,
+        "W": 0.0,
+        "G": 0.617,
+        "B": 0.0,
+        "None": 0.15
+      },
+      "cardTypes": {
+        "Instant": 0.0,
+        "Sorcery": 0.1,
+        "Planeswalker": 0.05,
+        "Creature": 0.35,
+        "Artifact": 0.0,
+        "Enchantment": 0.15,
+        "Land": 0.367,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.083
+    },
+    "archetype": "Midrange"
+  },
+  "29": {
+    "features": {
+      "cmcs": {
+        "mean": 1.25,
+        "sd": 1.299
+      },
+      "cardColors": {
+        "U": 0.633,
+        "R": 0.25,
+        "W": 0.35,
+        "G": 0.0,
+        "B": 0.0,
+        "None": 0.133
+      },
+      "cardTypes": {
+        "Instant": 0.35,
+        "Sorcery": 0.067,
+        "Planeswalker": 0.0,
+        "Creature": 0.183,
+        "Artifact": 0.0,
+        "Enchantment": 0.0,
+        "Land": 0.4,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.367
+    },
+    "archetype": "Control"
+  },
+  "30": {
+    "features": {
+      "cmcs": {
+        "mean": 1.317,
+        "sd": 1.271
+      },
+      "cardColors": {
+        "U": 0.0,
+        "R": 0.0,
+        "W": 0.1,
+        "G": 0.383,
+        "B": 0.65,
+        "None": 0.2
+      },
+      "cardTypes": {
+        "Instant": 0.133,
+        "Sorcery": 0.2,
+        "Planeswalker": 0.067,
+        "Creature": 0.2,
+        "Artifact": 0.0,
+        "Enchantment": 0.0,
+        "Land": 0.4,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.333
+    },
+    "archetype": "Midrange"
+  },
+  "31": {
+    "features": {
+      "cmcs": {
+        "mean": 1.283,
+        "sd": 1.05
+      },
+      "cardColors": {
+        "U": 0.2,
+        "R": 0.067,
+        "W": 0.517,
+        "G": 0.233,
+        "B": 0.133,
+        "None": 0.283
+      },
+      "cardTypes": {
+        "Instant": 0.0,
+        "Sorcery": 0.0,
+        "Planeswalker": 0.0,
+        "Creature": 0.617,
+        "Artifact": 0.067,
+        "Enchantment": 0.0,
+        "Land": 0.317,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.3
+    },
+    "archetype": "Aggro"
+  },
+  "32": {
+    "features": {
+      "cmcs": {
+        "mean": 1.817,
+        "sd": 2.102
+      },
+      "cardColors": {
+        "U": 0.0,
+        "R": 0.417,
+        "W": 0.0,
+        "G": 0.4,
+        "B": 0.0,
+        "None": 0.217
+      },
+      "cardTypes": {
+        "Instant": 0.067,
+        "Sorcery": 0.117,
+        "Planeswalker": 0.05,
+        "Creature": 0.267,
+        "Artifact": 0.05,
+        "Enchantment": 0.183,
+        "Land": 0.367,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.033
+    },
+    "archetype": "Midrange"
+  },
+  "33": {
+    "features": {
+      "cmcs": {
+        "mean": 1.3,
+        "sd": 1.054
+      },
+      "cardColors": {
+        "U": 0.367,
+        "R": 0.067,
+        "W": 0.583,
+        "G": 0.133,
+        "B": 0.083,
+        "None": 0.267
+      },
+      "cardTypes": {
+        "Instant": 0.0,
+        "Sorcery": 0.0,
+        "Planeswalker": 0.0,
+        "Creature": 0.617,
+        "Artifact": 0.067,
+        "Enchantment": 0.0,
+        "Land": 0.317,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.367
+    },
+    "archetype": "Aggro"
+  },
+  "34": {
+    "features": {
+      "cmcs": {
+        "mean": 1.517,
+        "sd": 1.839
+      },
+      "cardColors": {
+        "U": 0.333,
+        "R": 0.133,
+        "W": 0.0,
+        "G": 0.033,
+        "B": 0.5,
+        "None": 0.2
+      },
+      "cardTypes": {
+        "Instant": 0.267,
+        "Sorcery": 0.167,
+        "Planeswalker": 0.0,
+        "Creature": 0.267,
+        "Artifact": 0.0,
+        "Enchantment": 0.0,
+        "Land": 0.3,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.167
+    },
+    "archetype": "Midrange"
+  },
+  "35": {
+    "features": {
+      "cmcs": {
+        "mean": 1.733,
+        "sd": 1.94
+      },
+      "cardColors": {
+        "U": 0.033,
+        "R": 0.35,
+        "W": 0.033,
+        "G": 0.367,
+        "B": 0.0,
+        "None": 0.45
+      },
+      "cardTypes": {
+        "Instant": 0.067,
+        "Sorcery": 0.1,
+        "Planeswalker": 0.0,
+        "Creature": 0.45,
+        "Artifact": 0.0,
+        "Enchantment": 0.0,
+        "Land": 0.383,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.2
+    },
+    "archetype": "Midrange"
+  },
+  "36": {
+    "features": {
+      "cmcs": {
+        "mean": 1.2,
+        "sd": 1.122
+      },
+      "cardColors": {
+        "U": 0.0,
+        "R": 0.333,
+        "W": 0.0,
+        "G": 0.283,
+        "B": 0.583,
+        "None": 0.133
+      },
+      "cardTypes": {
+        "Instant": 0.217,
+        "Sorcery": 0.117,
+        "Planeswalker": 0.067,
+        "Creature": 0.217,
+        "Artifact": 0.0,
+        "Enchantment": 0.0,
+        "Land": 0.383,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.333
+    },
+    "archetype": "Midrange"
+  },
+  "37": {
+    "features": {
+      "cmcs": {
+        "mean": 1.317,
+        "sd": 1.072
+      },
+      "cardColors": {
+        "U": 0.333,
+        "R": 0.083,
+        "W": 0.55,
+        "G": 0.133,
+        "B": 0.083,
+        "None": 0.283
+      },
+      "cardTypes": {
+        "Instant": 0.0,
+        "Sorcery": 0.0,
+        "Planeswalker": 0.0,
+        "Creature": 0.617,
+        "Artifact": 0.067,
+        "Enchantment": 0.0,
+        "Land": 0.317,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.333
+    },
+    "archetype": "Aggro"
+  },
+  "38": {
+    "features": {
+      "cmcs": {
+        "mean": 1.633,
+        "sd": 1.653
+      },
+      "cardColors": {
+        "U": 0.133,
+        "R": 0.117,
+        "W": 0.35,
+        "G": 0.583,
+        "B": 0.0,
+        "None": 0.183
+      },
+      "cardTypes": {
+        "Instant": 0.017,
+        "Sorcery": 0.067,
+        "Planeswalker": 0.067,
+        "Creature": 0.417,
+        "Artifact": 0.0,
+        "Enchantment": 0.067,
+        "Land": 0.367,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.367
+    },
+    "archetype": "Combo"
+  },
+  "39": {
+    "features": {
+      "cmcs": {
+        "mean": 1.217,
+        "sd": 1.253
+      },
+      "cardColors": {
+        "U": 0.617,
+        "R": 0.25,
+        "W": 0.367,
+        "G": 0.0,
+        "B": 0.0,
+        "None": 0.133
+      },
+      "cardTypes": {
+        "Instant": 0.35,
+        "Sorcery": 0.067,
+        "Planeswalker": 0.0,
+        "Creature": 0.183,
+        "Artifact": 0.0,
+        "Enchantment": 0.0,
+        "Land": 0.4,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.367
+    },
+    "archetype": "Control"
+  },
+  "40": {
+    "features": {
+      "cmcs": {
+        "mean": 1.167,
+        "sd": 1.241
+      },
+      "cardColors": {
+        "U": 0.533,
+        "R": 0.233,
+        "W": 0.3,
+        "G": 0.0,
+        "B": 0.0,
+        "None": 0.217
+      },
+      "cardTypes": {
+        "Instant": 0.317,
+        "Sorcery": 0.05,
+        "Planeswalker": 0.0,
+        "Creature": 0.167,
+        "Artifact": 0.067,
+        "Enchantment": 0.033,
+        "Land": 0.367,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.283
+    },
+    "archetype": "Control"
+  },
+  "41": {
+    "features": {
+      "cmcs": {
+        "mean": 1.2,
+        "sd": 1.352
+      },
+      "cardColors": {
+        "U": 0.0,
+        "R": 0.167,
+        "W": 0.017,
+        "G": 0.217,
+        "B": 0.483,
+        "None": 0.267
+      },
+      "cardTypes": {
+        "Instant": 0.167,
+        "Sorcery": 0.2,
+        "Planeswalker": 0.033,
+        "Creature": 0.233,
+        "Artifact": 0.067,
+        "Enchantment": 0.0,
+        "Land": 0.3,
+        "Tribal": 0.033
+      },
+      "multicolored": 0.15
+    },
+    "archetype": "Midrange"
+  },
+  "42": {
+    "features": {
+      "cmcs": {
+        "mean": 1.133,
+        "sd": 0.939
+      },
+      "cardColors": {
+        "U": 0.0,
+        "R": 0.8,
+        "W": 0.2,
+        "G": 0.017,
+        "B": 0.0,
+        "None": 0.2
+      },
+      "cardTypes": {
+        "Instant": 0.317,
+        "Sorcery": 0.133,
+        "Planeswalker": 0.0,
+        "Creature": 0.233,
+        "Artifact": 0.0,
+        "Enchantment": 0.067,
+        "Land": 0.317,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.217
+    },
+    "archetype": "Aggro"
+  },
+  "43": {
+    "features": {
+      "cmcs": {
+        "mean": 1.6,
+        "sd": 1.985
+      },
+      "cardColors": {
+        "U": 0.0,
+        "R": 0.633,
+        "W": 0.133,
+        "G": 0.0,
+        "B": 0.417,
+        "None": 0.133
+      },
+      "cardTypes": {
+        "Instant": 0.183,
+        "Sorcery": 0.317,
+        "Planeswalker": 0.0,
+        "Creature": 0.167,
+        "Artifact": 0.0,
+        "Enchantment": 0.017,
+        "Land": 0.317,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.317
+    },
+    "archetype": "Midrange"
+  },
+  "44": {
+    "features": {
+      "cmcs": {
+        "mean": 1.2,
+        "sd": 1.4
+      },
+      "cardColors": {
+        "U": 0.15,
+        "R": 0.0,
+        "W": 0.017,
+        "G": 0.217,
+        "B": 0.483,
+        "None": 0.267
+      },
+      "cardTypes": {
+        "Instant": 0.183,
+        "Sorcery": 0.183,
+        "Planeswalker": 0.0,
+        "Creature": 0.267,
+        "Artifact": 0.1,
+        "Enchantment": 0.0,
+        "Land": 0.3,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.133
+    },
+    "archetype": "Midrange"
+  },
+  "45": {
+    "features": {
+      "cmcs": {
+        "mean": 1.317,
+        "sd": 1.072
+      },
+      "cardColors": {
+        "U": 0.333,
+        "R": 0.083,
+        "W": 0.55,
+        "G": 0.133,
+        "B": 0.083,
+        "None": 0.283
+      },
+      "cardTypes": {
+        "Instant": 0.0,
+        "Sorcery": 0.0,
+        "Planeswalker": 0.0,
+        "Creature": 0.617,
+        "Artifact": 0.067,
+        "Enchantment": 0.0,
+        "Land": 0.317,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.333
+    },
+    "archetype": "Aggro"
+  },
+  "46": {
+    "features": {
+      "cmcs": {
+        "mean": 1.75,
+        "sd": 2.56
+      },
+      "cardColors": {
+        "U": 0.517,
+        "R": 0.0,
+        "W": 0.0,
+        "G": 0.0,
+        "B": 0.033,
+        "None": 0.483
+      },
+      "cardTypes": {
+        "Instant": 0.283,
+        "Sorcery": 0.0,
+        "Planeswalker": 0.017,
+        "Creature": 0.133,
+        "Artifact": 0.233,
+        "Enchantment": 0.0,
+        "Land": 0.4,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.033
+    },
+    "archetype": "Control"
+  },
+  "47": {
+    "features": {
+      "cmcs": {
+        "mean": 2.0,
+        "sd": 1.871
+      },
+      "cardColors": {
+        "U": 0.0,
+        "R": 0.333,
+        "W": 0.0,
+        "G": 0.583,
+        "B": 0.0,
+        "None": 0.133
+      },
+      "cardTypes": {
+        "Instant": 0.0,
+        "Sorcery": 0.133,
+        "Planeswalker": 0.033,
+        "Creature": 0.35,
+        "Artifact": 0.0,
+        "Enchantment": 0.15,
+        "Land": 0.35,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.05
+    },
+    "archetype": "Midrange"
+  },
+  "48": {
+    "features": {
+      "cmcs": {
+        "mean": 1.317,
+        "sd": 1.072
+      },
+      "cardColors": {
+        "U": 0.367,
+        "R": 0.067,
+        "W": 0.6,
+        "G": 0.133,
+        "B": 0.067,
+        "None": 0.267
+      },
+      "cardTypes": {
+        "Instant": 0.0,
+        "Sorcery": 0.0,
+        "Planeswalker": 0.0,
+        "Creature": 0.617,
+        "Artifact": 0.067,
+        "Enchantment": 0.0,
+        "Land": 0.317,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.367
+    },
+    "archetype": "Aggro"
+  },
+  "49": {
+    "features": {
+      "cmcs": {
+        "mean": 1.567,
+        "sd": 1.874
+      },
+      "cardColors": {
+        "U": 0.033,
+        "R": 0.4,
+        "W": 0.0,
+        "G": 0.567,
+        "B": 0.0,
+        "None": 0.117
+      },
+      "cardTypes": {
+        "Instant": 0.067,
+        "Sorcery": 0.25,
+        "Planeswalker": 0.017,
+        "Creature": 0.167,
+        "Artifact": 0.0,
+        "Enchantment": 0.033,
+        "Land": 0.467,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.117
+    },
+    "archetype": "Combo"
+  },
+  "50": {
+    "features": {
+      "cmcs": {
+        "mean": 2.0,
+        "sd": 2.627
+      },
+      "cardColors": {
+        "U": 0.0,
+        "R": 0.0,
+        "W": 0.0,
+        "G": 0.233,
+        "B": 0.083,
+        "None": 0.733
+      },
+      "cardTypes": {
+        "Instant": 0.033,
+        "Sorcery": 0.133,
+        "Planeswalker": 0.1,
+        "Creature": 0.1,
+        "Artifact": 0.383,
+        "Enchantment": 0.0,
+        "Land": 0.317,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.05
+    },
+    "archetype": "Control"
+  },
+  "51": {
+    "features": {
+      "cmcs": {
+        "mean": 2.017,
+        "sd": 2.617
+      },
+      "cardColors": {
+        "U": 0.0,
+        "R": 0.0,
+        "W": 0.0,
+        "G": 0.0,
+        "B": 0.033,
+        "None": 0.967
+      },
+      "cardTypes": {
+        "Instant": 0.033,
+        "Sorcery": 0.033,
+        "Planeswalker": 0.033,
+        "Creature": 0.333,
+        "Artifact": 0.25,
+        "Enchantment": 0.0,
+        "Land": 0.4,
+        "Tribal": 0.033
+      },
+      "multicolored": 0.0
+    },
+    "archetype": "Midrange"
+  },
+  "52": {
+    "features": {
+      "cmcs": {
+        "mean": 1.633,
+        "sd": 2.0
+      },
+      "cardColors": {
+        "U": 0.0,
+        "R": 0.583,
+        "W": 0.1,
+        "G": 0.0,
+        "B": 0.45,
+        "None": 0.133
+      },
+      "cardTypes": {
+        "Instant": 0.167,
+        "Sorcery": 0.317,
+        "Planeswalker": 0.0,
+        "Creature": 0.167,
+        "Artifact": 0.0,
+        "Enchantment": 0.033,
+        "Land": 0.317,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.267
+    },
+    "archetype": "Midrange"
+  },
+  "53": {
+    "features": {
+      "cmcs": {
+        "mean": 1.15,
+        "sd": 0.946
+      },
+      "cardColors": {
+        "U": 0.0,
+        "R": 0.833,
+        "W": 0.217,
+        "G": 0.017,
+        "B": 0.0,
+        "None": 0.167
+      },
+      "cardTypes": {
+        "Instant": 0.333,
+        "Sorcery": 0.133,
+        "Planeswalker": 0.0,
+        "Creature": 0.217,
+        "Artifact": 0.0,
+        "Enchantment": 0.067,
+        "Land": 0.317,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.233
+    },
+    "archetype": "Aggro"
+  },
+  "54": {
+    "features": {
+      "cmcs": {
+        "mean": 2.067,
+        "sd": 2.732
+      },
+      "cardColors": {
+        "U": 0.0,
+        "R": 0.0,
+        "W": 0.0,
+        "G": 0.25,
+        "B": 0.1,
+        "None": 0.7
+      },
+      "cardTypes": {
+        "Instant": 0.05,
+        "Sorcery": 0.133,
+        "Planeswalker": 0.083,
+        "Creature": 0.1,
+        "Artifact": 0.35,
+        "Enchantment": 0.0,
+        "Land": 0.317,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.05
+    },
+    "archetype": "Control"
+  },
+  "55": {
+    "features": {
+      "cmcs": {
+        "mean": 1.233,
+        "sd": 1.346
+      },
+      "cardColors": {
+        "U": 0.6,
+        "R": 0.183,
+        "W": 0.317,
+        "G": 0.0,
+        "B": 0.0,
+        "None": 0.167
+      },
+      "cardTypes": {
+        "Instant": 0.333,
+        "Sorcery": 0.117,
+        "Planeswalker": 0.0,
+        "Creature": 0.1,
+        "Artifact": 0.0,
+        "Enchantment": 0.033,
+        "Land": 0.417,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.267
+    },
+    "archetype": "Control"
+  },
+  "56": {
+    "features": {
+      "cmcs": {
+        "mean": 1.2,
+        "sd": 1.122
+      },
+      "cardColors": {
+        "U": 0.0,
+        "R": 0.317,
+        "W": 0.0,
+        "G": 0.283,
+        "B": 0.6,
+        "None": 0.133
+      },
+      "cardTypes": {
+        "Instant": 0.217,
+        "Sorcery": 0.117,
+        "Planeswalker": 0.083,
+        "Creature": 0.2,
+        "Artifact": 0.0,
+        "Enchantment": 0.0,
+        "Land": 0.383,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.333
+    },
+    "archetype": "Midrange"
+  },
+  "57": {
+    "features": {
+      "cmcs": {
+        "mean": 1.567,
+        "sd": 1.986
+      },
+      "cardColors": {
+        "U": 0.0,
+        "R": 0.667,
+        "W": 0.133,
+        "G": 0.0,
+        "B": 0.383,
+        "None": 0.133
+      },
+      "cardTypes": {
+        "Instant": 0.2,
+        "Sorcery": 0.3,
+        "Planeswalker": 0.0,
+        "Creature": 0.167,
+        "Artifact": 0.0,
+        "Enchantment": 0.017,
+        "Land": 0.317,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.317
+    },
+    "archetype": "Midrange"
+  },
+  "58": {
+    "features": {
+      "cmcs": {
+        "mean": 2.5,
+        "sd": 3.222
+      },
+      "cardColors": {
+        "U": 0.2,
+        "R": 0.367,
+        "W": 0.0,
+        "G": 0.167,
+        "B": 0.233,
+        "None": 0.183
+      },
+      "cardTypes": {
+        "Instant": 0.267,
+        "Sorcery": 0.167,
+        "Planeswalker": 0.0,
+        "Creature": 0.217,
+        "Artifact": 0.05,
+        "Enchantment": 0.0,
+        "Land": 0.3,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.15
+    },
+    "archetype": "Combo"
+  },
+  "59": {
+    "features": {
+      "cmcs": {
+        "mean": 1.5,
+        "sd": 1.245
+      },
+      "cardColors": {
+        "U": 0.583,
+        "R": 0.483,
+        "W": 0.0,
+        "G": 0.067,
+        "B": 0.0,
+        "None": 0.117
+      },
+      "cardTypes": {
+        "Instant": 0.35,
+        "Sorcery": 0.217,
+        "Planeswalker": 0.0,
+        "Creature": 0.133,
+        "Artifact": 0.0,
+        "Enchantment": 0.0,
+        "Land": 0.3,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.25
+    },
+    "archetype": "Combo"
+  },
+  "60": {
+    "features": {
+      "cmcs": {
+        "mean": 1.983,
+        "sd": 2.21
+      },
+      "cardColors": {
+        "U": 0.8,
+        "R": 0.0,
+        "W": 0.0,
+        "G": 0.0,
+        "B": 0.2,
+        "None": 0.067
+      },
+      "cardTypes": {
+        "Instant": 0.217,
+        "Sorcery": 0.133,
+        "Planeswalker": 0.0,
+        "Creature": 0.233,
+        "Artifact": 0.05,
+        "Enchantment": 0.067,
+        "Land": 0.35,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.067
+    },
+    "archetype": "Combo"
+  },
+  "61": {
+    "features": {
+      "cmcs": {
+        "mean": 1.45,
+        "sd": 1.875
+      },
+      "cardColors": {
+        "U": 0.283,
+        "R": 0.15,
+        "W": 0.0,
+        "G": 0.033,
+        "B": 0.467,
+        "None": 0.25
+      },
+      "cardTypes": {
+        "Instant": 0.3,
+        "Sorcery": 0.067,
+        "Planeswalker": 0.0,
+        "Creature": 0.267,
+        "Artifact": 0.067,
+        "Enchantment": 0.0,
+        "Land": 0.3,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.15
+    },
+    "archetype": "Midrange"
+  },
+  "62": {
+    "features": {
+      "cmcs": {
+        "mean": 1.05,
+        "sd": 0.884
+      },
+      "cardColors": {
+        "U": 0.0,
+        "R": 0.467,
+        "W": 0.117,
+        "G": 0.417,
+        "B": 0.0,
+        "None": 0.2
+      },
+      "cardTypes": {
+        "Instant": 0.183,
+        "Sorcery": 0.0,
+        "Planeswalker": 0.0,
+        "Creature": 0.517,
+        "Artifact": 0.0,
+        "Enchantment": 0.0,
+        "Land": 0.3,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.2
+    },
+    "archetype": "Aggro"
+  },
+  "63": {
+    "features": {
+      "cmcs": {
+        "mean": 1.133,
+        "sd": 0.957
+      },
+      "cardColors": {
+        "U": 0.0,
+        "R": 0.767,
+        "W": 0.233,
+        "G": 0.017,
+        "B": 0.0,
+        "None": 0.233
+      },
+      "cardTypes": {
+        "Instant": 0.333,
+        "Sorcery": 0.133,
+        "Planeswalker": 0.0,
+        "Creature": 0.133,
+        "Artifact": 0.067,
+        "Enchantment": 0.0,
+        "Land": 0.333,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.25
+    },
+    "archetype": "Aggro"
+  },
+  "64": {
+    "features": {
+      "cmcs": {
+        "mean": 1.333,
+        "sd": 1.09
+      },
+      "cardColors": {
+        "U": 0.367,
+        "R": 0.067,
+        "W": 0.6,
+        "G": 0.15,
+        "B": 0.083,
+        "None": 0.267
+      },
+      "cardTypes": {
+        "Instant": 0.0,
+        "Sorcery": 0.0,
+        "Planeswalker": 0.0,
+        "Creature": 0.617,
+        "Artifact": 0.067,
+        "Enchantment": 0.0,
+        "Land": 0.317,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.383
+    },
+    "archetype": "Aggro"
+  },
+  "65": {
+    "features": {
+      "cmcs": {
+        "mean": 1.183,
+        "sd": 1.118
+      },
+      "cardColors": {
+        "U": 0.0,
+        "R": 0.0,
+        "W": 0.217,
+        "G": 0.367,
+        "B": 0.583,
+        "None": 0.15
+      },
+      "cardTypes": {
+        "Instant": 0.133,
+        "Sorcery": 0.2,
+        "Planeswalker": 0.05,
+        "Creature": 0.217,
+        "Artifact": 0.033,
+        "Enchantment": 0.033,
+        "Land": 0.367,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.317
+    },
+    "archetype": "Midrange"
+  },
+  "66": {
+    "features": {
+      "cmcs": {
+        "mean": 2.7,
+        "sd": 2.231
+      },
+      "cardColors": {
+        "U": 0.033,
+        "R": 0.533,
+        "W": 0.0,
+        "G": 0.167,
+        "B": 0.583,
+        "None": 0.133
+      },
+      "cardTypes": {
+        "Instant": 0.067,
+        "Sorcery": 0.133,
+        "Planeswalker": 0.0,
+        "Creature": 0.5,
+        "Artifact": 0.033,
+        "Enchantment": 0.0,
+        "Land": 0.317,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.45
+    },
+    "archetype": "Combo"
+  },
+  "67": {
+    "features": {
+      "cmcs": {
+        "mean": 0.984,
+        "sd": 0.896
+      },
+      "cardColors": {
+        "U": 0.0,
+        "R": 0.492,
+        "W": 0.246,
+        "G": 0.361,
+        "B": 0.0,
+        "None": 0.197
+      },
+      "cardTypes": {
+        "Instant": 0.262,
+        "Sorcery": 0.0,
+        "Planeswalker": 0.0,
+        "Creature": 0.426,
+        "Artifact": 0.0,
+        "Enchantment": 0.0,
+        "Land": 0.311,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.295
+    },
+    "archetype": "Aggro"
+  },
+  "68": {
+    "features": {
+      "cmcs": {
+        "mean": 1.183,
+        "sd": 0.975
+      },
+      "cardColors": {
+        "U": 0.0,
+        "R": 0.833,
+        "W": 0.217,
+        "G": 0.1,
+        "B": 0.0,
+        "None": 0.167
+      },
+      "cardTypes": {
+        "Instant": 0.35,
+        "Sorcery": 0.133,
+        "Planeswalker": 0.0,
+        "Creature": 0.2,
+        "Artifact": 0.0,
+        "Enchantment": 0.067,
+        "Land": 0.317,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.317
+    },
+    "archetype": "Aggro"
+  },
+  "69": {
+    "features": {
+      "cmcs": {
+        "mean": 0.933,
+        "sd": 0.834
+      },
+      "cardColors": {
+        "U": 0.0,
+        "R": 0.0,
+        "W": 0.917,
+        "G": 0.0,
+        "B": 0.017,
+        "None": 0.067
+      },
+      "cardTypes": {
+        "Instant": 0.083,
+        "Sorcery": 0.0,
+        "Planeswalker": 0.0,
+        "Creature": 0.533,
+        "Artifact": 0.0,
+        "Enchantment": 0.05,
+        "Land": 0.35,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.0
+    },
+    "archetype": "Aggro"
+  },
+  "70": {
+    "features": {
+      "cmcs": {
+        "mean": 1.656,
+        "sd": 1.567
+      },
+      "cardColors": {
+        "U": 0.033,
+        "R": 0.0,
+        "W": 0.574,
+        "G": 0.59,
+        "B": 0.148,
+        "None": 0.164
+      },
+      "cardTypes": {
+        "Instant": 0.066,
+        "Sorcery": 0.066,
+        "Planeswalker": 0.0,
+        "Creature": 0.508,
+        "Artifact": 0.0,
+        "Enchantment": 0.0,
+        "Land": 0.361,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.426
+    },
+    "archetype": "Midrange"
+  },
+  "71": {
+    "features": {
+      "cmcs": {
+        "mean": 0.933,
+        "sd": 0.793
+      },
+      "cardColors": {
+        "U": 0.067,
+        "R": 0.0,
+        "W": 0.6,
+        "G": 0.533,
+        "B": 0.0,
+        "None": 0.05
+      },
+      "cardTypes": {
+        "Instant": 0.067,
+        "Sorcery": 0.0,
+        "Planeswalker": 0.0,
+        "Creature": 0.217,
+        "Artifact": 0.0,
+        "Enchantment": 0.4,
+        "Land": 0.317,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.25
+    },
+    "archetype": "Aggro"
+  },
+  "72": {
+    "features": {
+      "cmcs": {
+        "mean": 1.45,
+        "sd": 1.396
+      },
+      "cardColors": {
+        "U": 0.217,
+        "R": 0.033,
+        "W": 0.483,
+        "G": 0.6,
+        "B": 0.0,
+        "None": 0.167
+      },
+      "cardTypes": {
+        "Instant": 0.117,
+        "Sorcery": 0.0,
+        "Planeswalker": 0.0,
+        "Creature": 0.467,
+        "Artifact": 0.0,
+        "Enchantment": 0.067,
+        "Land": 0.383,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.433
+    },
+    "archetype": "Midrange"
+  },
+  "73": {
+    "features": {
+      "cmcs": {
+        "mean": 2.717,
+        "sd": 2.176
+      },
+      "cardColors": {
+        "U": 0.067,
+        "R": 0.5,
+        "W": 0.0,
+        "G": 0.217,
+        "B": 0.617,
+        "None": 0.067
+      },
+      "cardTypes": {
+        "Instant": 0.083,
+        "Sorcery": 0.117,
+        "Planeswalker": 0.0,
+        "Creature": 0.517,
+        "Artifact": 0.067,
+        "Enchantment": 0.0,
+        "Land": 0.3,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.467
+    },
+    "archetype": "Combo"
+  },
+  "74": {
+    "features": {
+      "cmcs": {
+        "mean": 1.417,
+        "sd": 1.563
+      },
+      "cardColors": {
+        "U": 0.65,
+        "R": 0.267,
+        "W": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "None": 0.2
+      },
+      "cardTypes": {
+        "Instant": 0.25,
+        "Sorcery": 0.05,
+        "Planeswalker": 0.0,
+        "Creature": 0.217,
+        "Artifact": 0.083,
+        "Enchantment": 0.05,
+        "Land": 0.367,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.117
+    },
+    "archetype": "Control"
+  },
+  "75": {
+    "features": {
+      "cmcs": {
+        "mean": 1.417,
+        "sd": 1.763
+      },
+      "cardColors": {
+        "U": 0.317,
+        "R": 0.0,
+        "W": 0.15,
+        "G": 0.033,
+        "B": 0.5,
+        "None": 0.2
+      },
+      "cardTypes": {
+        "Instant": 0.2,
+        "Sorcery": 0.233,
+        "Planeswalker": 0.033,
+        "Creature": 0.217,
+        "Artifact": 0.0,
+        "Enchantment": 0.0,
+        "Land": 0.317,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.167
+    },
+    "archetype": "Midrange"
+  },
+  "76": {
+    "features": {
+      "cmcs": {
+        "mean": 0.833,
+        "sd": 0.662
+      },
+      "cardColors": {
+        "U": 0.383,
+        "R": 0.1,
+        "W": 0.0,
+        "G": 0.467,
+        "B": 0.0,
+        "None": 0.167
+      },
+      "cardTypes": {
+        "Instant": 0.267,
+        "Sorcery": 0.033,
+        "Planeswalker": 0.0,
+        "Creature": 0.4,
+        "Artifact": 0.0,
+        "Enchantment": 0.0,
+        "Land": 0.317,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.117
+    },
+    "archetype": "Aggro"
+  },
+  "77": {
+    "features": {
+      "cmcs": {
+        "mean": 1.25,
+        "sd": 1.299
+      },
+      "cardColors": {
+        "U": 0.0,
+        "R": 0.0,
+        "W": 0.417,
+        "G": 0.0,
+        "B": 0.783,
+        "None": 0.083
+      },
+      "cardTypes": {
+        "Instant": 0.067,
+        "Sorcery": 0.317,
+        "Planeswalker": 0.133,
+        "Creature": 0.067,
+        "Artifact": 0.0,
+        "Enchantment": 0.0,
+        "Land": 0.417,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.283
+    },
+    "archetype": "Midrange"
+  },
+  "78": {
+    "features": {
+      "cmcs": {
+        "mean": 1.933,
+        "sd": 2.568
+      },
+      "cardColors": {
+        "U": 0.0,
+        "R": 0.0,
+        "W": 0.0,
+        "G": 0.0,
+        "B": 0.033,
+        "None": 0.967
+      },
+      "cardTypes": {
+        "Instant": 0.033,
+        "Sorcery": 0.033,
+        "Planeswalker": 0.033,
+        "Creature": 0.317,
+        "Artifact": 0.25,
+        "Enchantment": 0.0,
+        "Land": 0.4,
+        "Tribal": 0.033
+      },
+      "multicolored": 0.0
+    },
+    "archetype": "Midrange"
+  },
+  "79": {
+    "features": {
+      "cmcs": {
+        "mean": 1.383,
+        "sd": 1.226
+      },
+      "cardColors": {
+        "U": 0.633,
+        "R": 0.55,
+        "W": 0.0,
+        "G": 0.083,
+        "B": 0.0,
+        "None": 0.05
+      },
+      "cardTypes": {
+        "Instant": 0.333,
+        "Sorcery": 0.217,
+        "Planeswalker": 0.0,
+        "Creature": 0.117,
+        "Artifact": 0.05,
+        "Enchantment": 0.0,
+        "Land": 0.283,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.317
+    },
+    "archetype": "Combo"
+  },
+  "80": {
+    "features": {
+      "cmcs": {
+        "mean": 1.5,
+        "sd": 1.83
+      },
+      "cardColors": {
+        "U": 0.033,
+        "R": 0.4,
+        "W": 0.0,
+        "G": 0.517,
+        "B": 0.0,
+        "None": 0.167
+      },
+      "cardTypes": {
+        "Instant": 0.083,
+        "Sorcery": 0.217,
+        "Planeswalker": 0.0,
+        "Creature": 0.2,
+        "Artifact": 0.05,
+        "Enchantment": 0.0,
+        "Land": 0.45,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.117
+    },
+    "archetype": "Combo"
+  },
+  "81": {
+    "features": {
+      "cmcs": {
+        "mean": 1.35,
+        "sd": 1.388
+      },
+      "cardColors": {
+        "U": 0.467,
+        "R": 0.317,
+        "W": 0.0,
+        "G": 0.383,
+        "B": 0.0,
+        "None": 0.083
+      },
+      "cardTypes": {
+        "Instant": 0.233,
+        "Sorcery": 0.217,
+        "Planeswalker": 0.0,
+        "Creature": 0.1,
+        "Artifact": 0.0,
+        "Enchantment": 0.033,
+        "Land": 0.417,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.25
+    },
+    "archetype": "Combo"
+  },
+  "82": {
+    "features": {
+      "cmcs": {
+        "mean": 1.05,
+        "sd": 0.99
+      },
+      "cardColors": {
+        "U": 0.0,
+        "R": 0.967,
+        "W": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "None": 0.033
+      },
+      "cardTypes": {
+        "Instant": 0.067,
+        "Sorcery": 0.067,
+        "Planeswalker": 0.0,
+        "Creature": 0.55,
+        "Artifact": 0.0,
+        "Enchantment": 0.0,
+        "Land": 0.317,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.0
+    },
+    "archetype": "Aggro"
+  },
+  "83": {
+    "features": {
+      "cmcs": {
+        "mean": 1.05,
+        "sd": 1.04
+      },
+      "cardColors": {
+        "U": 0.067,
+        "R": 0.0,
+        "W": 0.583,
+        "G": 0.5,
+        "B": 0.0,
+        "None": 0.117
+      },
+      "cardTypes": {
+        "Instant": 0.033,
+        "Sorcery": 0.0,
+        "Planeswalker": 0.0,
+        "Creature": 0.217,
+        "Artifact": 0.0,
+        "Enchantment": 0.433,
+        "Land": 0.333,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.267
+    },
+    "archetype": "Aggro"
+  },
+  "84": {
+    "features": {
+      "cmcs": {
+        "mean": 1.3,
+        "sd": 1.115
+      },
+      "cardColors": {
+        "U": 0.133,
+        "R": 0.4,
+        "W": 0.0,
+        "G": 0.133,
+        "B": 0.367,
+        "None": 0.15
+      },
+      "cardTypes": {
+        "Instant": 0.017,
+        "Sorcery": 0.233,
+        "Planeswalker": 0.0,
+        "Creature": 0.417,
+        "Artifact": 0.0,
+        "Enchantment": 0.0,
+        "Land": 0.333,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.183
+    },
+    "archetype": "Aggro"
+  },
+  "85": {
+    "features": {
+      "cmcs": {
+        "mean": 1.117,
+        "sd": 1.305
+      },
+      "cardColors": {
+        "U": 0.083,
+        "R": 0.05,
+        "W": 0.0,
+        "G": 0.233,
+        "B": 0.5,
+        "None": 0.267
+      },
+      "cardTypes": {
+        "Instant": 0.2,
+        "Sorcery": 0.2,
+        "Planeswalker": 0.033,
+        "Creature": 0.2,
+        "Artifact": 0.067,
+        "Enchantment": 0.0,
+        "Land": 0.3,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.133
+    },
+    "archetype": "Midrange"
+  },
+  "86": {
+    "features": {
+      "cmcs": {
+        "mean": 1.033,
+        "sd": 1.048
+      },
+      "cardColors": {
+        "U": 0.067,
+        "R": 0.0,
+        "W": 0.6,
+        "G": 0.483,
+        "B": 0.0,
+        "None": 0.1
+      },
+      "cardTypes": {
+        "Instant": 0.033,
+        "Sorcery": 0.0,
+        "Planeswalker": 0.0,
+        "Creature": 0.217,
+        "Artifact": 0.0,
+        "Enchantment": 0.433,
+        "Land": 0.333,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.25
+    },
+    "archetype": "Aggro"
+  },
+  "87": {
+    "features": {
+      "cmcs": {
+        "mean": 1.333,
+        "sd": 1.059
+      },
+      "cardColors": {
+        "U": 0.133,
+        "R": 0.317,
+        "W": 0.0,
+        "G": 0.133,
+        "B": 0.333,
+        "None": 0.2
+      },
+      "cardTypes": {
+        "Instant": 0.033,
+        "Sorcery": 0.283,
+        "Planeswalker": 0.0,
+        "Creature": 0.383,
+        "Artifact": 0.0,
+        "Enchantment": 0.0,
+        "Land": 0.3,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.117
+    },
+    "archetype": "Aggro"
+  },
+  "88": {
+    "features": {
+      "cmcs": {
+        "mean": 2.75,
+        "sd": 3.233
+      },
+      "cardColors": {
+        "U": 0.0,
+        "R": 0.5,
+        "W": 0.0,
+        "G": 0.183,
+        "B": 0.417,
+        "None": 0.067
+      },
+      "cardTypes": {
+        "Instant": 0.267,
+        "Sorcery": 0.183,
+        "Planeswalker": 0.0,
+        "Creature": 0.233,
+        "Artifact": 0.0,
+        "Enchantment": 0.0,
+        "Land": 0.317,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.167
+    },
+    "archetype": "Combo"
+  },
+  "89": {
+    "features": {
+      "cmcs": {
+        "mean": 0.75,
+        "sd": 0.849
+      },
+      "cardColors": {
+        "U": 0.033,
+        "R": 0.0,
+        "W": 0.0,
+        "G": 0.167,
+        "B": 0.267,
+        "None": 0.617
+      },
+      "cardTypes": {
+        "Instant": 0.05,
+        "Sorcery": 0.2,
+        "Planeswalker": 0.0,
+        "Creature": 0.0,
+        "Artifact": 0.45,
+        "Enchantment": 0.0,
+        "Land": 0.3,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.083
+    },
+    "archetype": "Control"
+  },
+  "90": {
+    "features": {
+      "cmcs": {
+        "mean": 1.817,
+        "sd": 2.37
+      },
+      "cardColors": {
+        "U": 0.0,
+        "R": 0.0,
+        "W": 0.0,
+        "G": 0.0,
+        "B": 0.033,
+        "None": 0.967
+      },
+      "cardTypes": {
+        "Instant": 0.033,
+        "Sorcery": 0.033,
+        "Planeswalker": 0.033,
+        "Creature": 0.317,
+        "Artifact": 0.25,
+        "Enchantment": 0.0,
+        "Land": 0.4,
+        "Tribal": 0.033
+      },
+      "multicolored": 0.0
+    },
+    "archetype": "Midrange"
+  },
+  "91": {
+    "features": {
+      "cmcs": {
+        "mean": 2.75,
+        "sd": 3.233
+      },
+      "cardColors": {
+        "U": 0.0,
+        "R": 0.5,
+        "W": 0.0,
+        "G": 0.183,
+        "B": 0.417,
+        "None": 0.067
+      },
+      "cardTypes": {
+        "Instant": 0.267,
+        "Sorcery": 0.183,
+        "Planeswalker": 0.0,
+        "Creature": 0.233,
+        "Artifact": 0.0,
+        "Enchantment": 0.0,
+        "Land": 0.317,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.167
+    },
+    "archetype": "Combo"
+  },
+  "92": {
+    "features": {
+      "cmcs": {
+        "mean": 1.217,
+        "sd": 1.17
+      },
+      "cardColors": {
+        "U": 0.0,
+        "R": 0.0,
+        "W": 0.233,
+        "G": 0.333,
+        "B": 0.633,
+        "None": 0.133
+      },
+      "cardTypes": {
+        "Instant": 0.133,
+        "Sorcery": 0.2,
+        "Planeswalker": 0.067,
+        "Creature": 0.2,
+        "Artifact": 0.017,
+        "Enchantment": 0.0,
+        "Land": 0.383,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.317
+    },
+    "archetype": "Midrange"
+  },
+  "93": {
+    "features": {
+      "cmcs": {
+        "mean": 0.95,
+        "sd": 1.866
+      },
+      "cardColors": {
+        "U": 0.2,
+        "R": 0.083,
+        "W": 0.067,
+        "G": 0.5,
+        "B": 0.05,
+        "None": 0.317
+      },
+      "cardTypes": {
+        "Instant": 0.117,
+        "Sorcery": 0.083,
+        "Planeswalker": 0.0,
+        "Creature": 0.183,
+        "Artifact": 0.183,
+        "Enchantment": 0.0,
+        "Land": 0.45,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.217
+    },
+    "archetype": "Combo"
+  },
+  "94": {
+    "features": {
+      "cmcs": {
+        "mean": 1.167,
+        "sd": 1.241
+      },
+      "cardColors": {
+        "U": 0.533,
+        "R": 0.233,
+        "W": 0.3,
+        "G": 0.0,
+        "B": 0.0,
+        "None": 0.217
+      },
+      "cardTypes": {
+        "Instant": 0.317,
+        "Sorcery": 0.05,
+        "Planeswalker": 0.0,
+        "Creature": 0.167,
+        "Artifact": 0.067,
+        "Enchantment": 0.033,
+        "Land": 0.367,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.283
+    },
+    "archetype": "Control"
+  },
+  "95": {
+    "features": {
+      "cmcs": {
+        "mean": 1.2,
+        "sd": 1.222
+      },
+      "cardColors": {
+        "U": 0.633,
+        "R": 0.25,
+        "W": 0.367,
+        "G": 0.0,
+        "B": 0.0,
+        "None": 0.133
+      },
+      "cardTypes": {
+        "Instant": 0.333,
+        "Sorcery": 0.067,
+        "Planeswalker": 0.0,
+        "Creature": 0.2,
+        "Artifact": 0.0,
+        "Enchantment": 0.0,
+        "Land": 0.4,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.383
+    },
+    "archetype": "Control"
+  },
+  "96": {
+    "features": {
+      "cmcs": {
+        "mean": 1.183,
+        "sd": 1.162
+      },
+      "cardColors": {
+        "U": 0.0,
+        "R": 0.0,
+        "W": 0.0,
+        "G": 0.467,
+        "B": 0.6,
+        "None": 0.183
+      },
+      "cardTypes": {
+        "Instant": 0.1,
+        "Sorcery": 0.183,
+        "Planeswalker": 0.05,
+        "Creature": 0.25,
+        "Artifact": 0.033,
+        "Enchantment": 0.0,
+        "Land": 0.383,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.25
+    },
+    "archetype": "Midrange"
+  },
+  "97": {
+    "features": {
+      "cmcs": {
+        "mean": 1.4,
+        "sd": 1.645
+      },
+      "cardColors": {
+        "U": 0.533,
+        "R": 0.2,
+        "W": 0.0,
+        "G": 0.0,
+        "B": 0.317,
+        "None": 0.2
+      },
+      "cardTypes": {
+        "Instant": 0.417,
+        "Sorcery": 0.0,
+        "Planeswalker": 0.0,
+        "Creature": 0.1,
+        "Artifact": 0.083,
+        "Enchantment": 0.0,
+        "Land": 0.417,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.25
+    },
+    "archetype": "Control"
+  },
+  "98": {
+    "features": {
+      "cmcs": {
+        "mean": 1.533,
+        "sd": 1.848
+      },
+      "cardColors": {
+        "U": 0.333,
+        "R": 0.1,
+        "W": 0.0,
+        "G": 0.033,
+        "B": 0.5,
+        "None": 0.2
+      },
+      "cardTypes": {
+        "Instant": 0.283,
+        "Sorcery": 0.167,
+        "Planeswalker": 0.0,
+        "Creature": 0.25,
+        "Artifact": 0.0,
+        "Enchantment": 0.0,
+        "Land": 0.3,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.133
+    },
+    "archetype": "Midrange"
+  },
+  "99": {
+    "features": {
+      "cmcs": {
+        "mean": 2.0,
+        "sd": 1.871
+      },
+      "cardColors": {
+        "U": 0.0,
+        "R": 0.333,
+        "W": 0.0,
+        "G": 0.583,
+        "B": 0.0,
+        "None": 0.133
+      },
+      "cardTypes": {
+        "Instant": 0.0,
+        "Sorcery": 0.133,
+        "Planeswalker": 0.033,
+        "Creature": 0.35,
+        "Artifact": 0.0,
+        "Enchantment": 0.15,
+        "Land": 0.35,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.05
+    },
+    "archetype": "Midrange"
+  },
+  "100": {
+    "features": {
+      "cmcs": {
+        "mean": 1.517,
+        "sd": 1.839
+      },
+      "cardColors": {
+        "U": 0.35,
+        "R": 0.1,
+        "W": 0.0,
+        "G": 0.033,
+        "B": 0.483,
+        "None": 0.2
+      },
+      "cardTypes": {
+        "Instant": 0.267,
+        "Sorcery": 0.167,
+        "Planeswalker": 0.0,
+        "Creature": 0.267,
+        "Artifact": 0.0,
+        "Enchantment": 0.0,
+        "Land": 0.3,
+        "Tribal": 0.0
+      },
+      "multicolored": 0.133
+    },
+    "archetype": "Midrange"
+  }
+}
